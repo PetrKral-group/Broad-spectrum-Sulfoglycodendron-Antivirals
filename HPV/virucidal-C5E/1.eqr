@@ -5,7 +5,7 @@
 #===========================================================
 #19
 set RunNo  0
-set do     3                   ; # 1 Min, 2 Warm, 3 Eqr
+set do     2                   ; # 1 Min, 2 Warm, 3 Eqr
 
 structure       ionized.psf	
 coordinates     ionized.pdb
